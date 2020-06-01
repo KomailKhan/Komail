@@ -6,17 +6,27 @@
 
 # Commands for Termux Terminal Users
 
- $ apt update
- $ apt upgrade
- $ apt install python
- & apt install python2
- $ apt install git
- $ pip2 install requests
- & pip2 install mechanize
- $ git clone https://github.com/KomailKhan/Komail
- $ cd Komail
- $ ls
- $ python2 Komail
+ * apt update
+ 
+ * apt upgrade
+ 
+ * apt install python
+ 
+ * apt install python2
+ 
+ * apt install git
+ 
+ * pip2 install requests
+ 
+ * pip2 install mechanize
+ 
+ * git clone https://github.com/KomailKhan/Komail.git
+ 
+ * cd Komail
+ 
+ * ls
+ 
+ * python2 Komail
 
 
 # Contact me If you have any Issue
