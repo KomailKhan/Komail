@@ -118,10 +118,10 @@ while (loop == 'true'):
 	    time.sleep(2)
             loop = 'false'
         else:
-            print "\033[1;96mAbey Gandu ke. Password Sahi Dal-Dobara"
+            print "\033[1;96mAbey Gandu Kahi ke. Password Sahi Dal - Dobara"
             os.system('xdg-open https://m.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ')
     else:
-        print "\033[1;96mChuthiya Kahi Ka. Username Sahi DalDal-Dobara"
+        print "\033[1;96mChuthiya Kahi Ka. Username Sahi Dal - Dobara"
         os.system('xdg-open https://m.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ')
 
 def login():
